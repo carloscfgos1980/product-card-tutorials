@@ -1,0 +1,1 @@
+This app took me 5 minutes to build, I just prompted the command and it gave the whole code right away, then just separate the style in a different file and tada... done!
