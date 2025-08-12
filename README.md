@@ -3,4 +3,8 @@
 
  2. <product-card-challenge> Challange exercise for product card. Using HTML and CSS
 
- 3. <code-flare>. I didn
+ 3. <code-flare>. I didnt finish it.
+
+ 4. <mr-coder> Challange exercise of Product card using HTML and javascript. I solved with Copilot. 5 minutes!
+
+ 5. <hutlr-challange>. React and CSS for the product card test from Htlr. Solved with Copilot. 
